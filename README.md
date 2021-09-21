@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>
-	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=francois-rozet&show_icons=true&hide_title=true" align="left"></a>
-	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francois-rozet&layout=compact&hide_title=true" align="right"></a>
+	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Glacias&show_icons=true&hide_title=true" align="left"></a>
+	<a href="#/"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glacias&layout=compact&hide_title=true" align="right"></a>
 </p>
